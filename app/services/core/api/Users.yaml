@@ -1,0 +1,9 @@
+openapi: 3.0.0
+info:
+  title: Test Example
+  version: 1.0.0
+paths:
+  /test:
+    get:
+      summary: Test API
+      operationId: testAPI
